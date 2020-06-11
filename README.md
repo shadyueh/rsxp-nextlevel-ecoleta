@@ -41,3 +41,25 @@ transaction
 cors
 
 unsplash
+
+## Day 3
+
+JSX = Sintaxe de XML dentro do Javascript
+
+Components
+
+Properties atributos enviados para o componentes
+
+Generics
+
+State
+
+imutabilidade nao atribuir valor diretamente a variavel
+
+leatlet
+
+interfaces
+
+typescript cheatsheet
+
+form handling
